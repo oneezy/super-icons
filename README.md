@@ -1,6 +1,15 @@
+_[Demo and API Docs](https://oneezy.github.io/super-icons)_
+
+
 # \<super-icons\>
 
+[![Build Status](https://travis-ci.org/oneezy/super-icons.svg?branch=master)](https://travis-ci.org/oneezy/super-icons)
+
 A super icon set for Polymer projects
+
+```
+$ bower install oneezy/super-icons
+```
 
 ## Install the Polymer-CLI
 
